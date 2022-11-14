@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.homework{
+    width: 100%;
+    height: 100vh;
+    background: black;
+}
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background: black;
+    position: relative;
+}
+.rasm{
+    width: 300px;
+    height: 400px;
+    background: tomato;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+    left: 43%;
+    border-radius: 30px;
+    top: 50px;
+}
+.repper{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 45px 50px 0px 50px;
+    position: relative;
+    left: 43%;
+    top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card1{
+    width: 230px;
+    height: 280px;
+    background: brown;
+    border-radius: 150px 0px 20px 0;
+    position: absolute;
+    top:200px;
+    left: 43%;
+}
+.card2{
+    width: 230px;
+    height: 280px;
+    background: orange;
+    border-radius: 0px 150px 0px 20px;
+    position: absolute;
+    top:200px;
+    right: 43%;
+    
+}
+.card3{
+    width: 150px;
+    height: 150px;
+    background: yellow;
+    border-radius: 50%;
+    position: absolute;
+    left: 25%;
+    top: 150px;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: orangered;
+    position: relative;
+    overflow: hidden;
+}
+.dada3{
+    width: 150px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    left: 50%;  
+    top: 150px; 
+}
+
+.dada2{
+    width: 150px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    left: 38%;  
+    top: 150px; 
+}
+.dada3{
+    width: 150px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    left: 50%;  
+    top: 150px; 
+}
+.dada4{
+    width: 150px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    left: 50%;  
+    top: 340px; 
+}
+.dada5{
+    width: 150px;
+    height: 150px;
+    background: white;
+    position: absolute;
+    left: 38%;  
+    top: 340px; 
+}
+.aba{
+    width: 50px;
+    height: 50px;
+    background: orangered;
+    border-radius: 45px 50px 0px 50px;
+}
+.repper2{
+    width: 100px;
+    height: 100px;
+    background: white;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 45px 50px 50px 0px;
+    position: relative;
+    left: 49%;
+    top: -80px;
+    
+}
+.aba2{
+    width: 50px;
+    height: 50px;
+    background: orangered;
+    border-radius: 45px 50px 50px 0px;
+    
+}
+.katta{
+    width: 300px;
+    height: 400px;
+    background: blue;
+    border-radius: 130px 130px 0px 0px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+.dunyo{
+    width: 80px;
+    height: 50px;
+    background: black;
+    position: absolute;
+    left: 75%;
+    top: 44%;
+}
+.dunyo1{
+    width: 150px;
+    height: 50px;
+    background: black;
+    position: absolute;
+    left: 55%;
+    top: 58%;
+}
+.dunyo2{
+    width: 210px;
+    height: 50px;
+    background: black;
+    position: absolute;
+    left: 40%;
+    top: 73%;
+}
+.dunyo3{
+    width: 290px;
+    height: 50px;
+    background: black;
+    position: absolute;
+    left: 20%;
+    top: 88%;
+}
+.dars{
+    width: 100%;
+    height: 100vh;
+    background: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lesson{
+    width: 350px;
+    height: 350px;
+    background: rgb(41, 82, 43);
+}
+.sinf{
+    width: 200px;
+    height: 200px;
+    background: #43eb4ba6;
+    margin-top: 43%;
+}
+.barsa{
+    width: 90px;
+    height: 90px;
+    background: yellow;
+    margin-left: 110px;
+}
+
+
+
+.Levandowski{
+    width: 100%;
+    height: 100vh;
+    background: gold;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+  }
+  .ronaldo{
+    width: 200px;
+    height: 450px;
+    background: blue;
+    margin-left:10px;
+    display:flex;
+    align-items: center;
+    text-align: right;
+  }
+  .pedri{
+    width: 100px;
+    height: 490px;
+    background: gold;
+    border-radius: 500px 0px 0px 500px;
+    margin-left: 100px;
+  }
+  
+  .benzema{
+    width: 450px;
+    height: 450px;
+    background: blue;
+    border-radius: 300px;
+    margin-left:40px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .fati{
+    width:130px;
+    height:130px;
+    background: yellow;
+    border-radius: 50%;
+  }
+  .ferran{
+    width: 200px;
+    height: 450px;
+    background: blue;
+    margin-left:10px;
+    display:flex;
+    align-items: center;
+    text-align: right;
+  }
+  .terstegen{
+      width: 100px;
+    height: 490px;
+    background: gold;
+    border-radius: 0px 500px 500px 0px;
+    margin-right: 100px;
+  }

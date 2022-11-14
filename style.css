@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* padding va border width va height ichidan joy oladi element kattalashib ketmaydi */
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background: dodgerblue;
+    border: 5px solid red;
+    padding: 20px;
+    padding-top: 80px;
+}

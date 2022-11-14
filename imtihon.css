@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.div{
+   width: 70%;
+   margin: auto;
+   font-weight: 700; 
+   text-align:xxцввв
+}
+.div h1{
+    text-align: center;
+}
